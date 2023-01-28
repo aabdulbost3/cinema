@@ -1,0 +1,28 @@
+.Footer1Right {
+  display: flex;
+  width: 40%;
+  justify-content: space-between;
+  color: #fff;
+  padding: 0 5%;
+}
+.Footer1Right h2{
+  color: #fff !important;
+}
+.archive ul li {
+  color:#fff !important;
+  padding: 5px 5px 5px 10px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 15.8182px;
+  line-height: 19px;
+  text-decoration-line: underline;
+}
+.archive ul li:nth-child(1) {
+  padding-top: 10px;
+}
+@media only screen and (max-width: 450px) {
+    .Footer1Right{
+      width: 100%;
+    }
+}

@@ -1,0 +1,11 @@
+.selecy {
+    width: 100%;
+}
+select {
+    background: rgb(40, 42, 61);
+    color: #fff;
+    padding: 15%;
+}
+option {
+    background: rgb(0, 0, 0);
+}
