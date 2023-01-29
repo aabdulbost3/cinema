@@ -7,7 +7,7 @@ function Footer2() {
   return (
     <div className="container">
       <div className='Footer2'>
-      <h1>© {t('Header.15')}</h1>
+      <h1>© Powerd By BananUzCinema </h1>
     </div>
     </div>
   )

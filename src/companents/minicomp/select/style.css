@@ -1,11 +1,16 @@
 .selecy {
     width: 100%;
 }
-select {
+.selecy select {
     background: rgb(40, 42, 61);
     color: #fff;
-    padding: 15%;
+    /* padding: 15%; */
 }
 option {
     background: rgb(0, 0, 0);
+}
+@media (max-width: 860px) {
+    .selecy select {
+        width: 100%;
+    }
 }
